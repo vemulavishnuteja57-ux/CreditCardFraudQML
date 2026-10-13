@@ -1,0 +1,2 @@
+Model,Category,Test Samples,Test Fraud Cases,Accuracy,Fraud Precision,Fraud Recall,Fraud F1-Score,ROC-AUC,Average Precision,Metric Source
+Random Forest,Classical,56962,98,,0.91,0.79,0.84,0.95731,,Classification report; rounded metrics

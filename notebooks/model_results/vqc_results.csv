@@ -1,0 +1,2 @@
+Model,Category,Test Samples,Test Fraud Cases,Accuracy,Fraud Precision,Fraud Recall,Fraud F1-Score,ROC-AUC,Average Precision,Metric Source
+VQC,Hybrid quantum-classical,60,20,0.5,0.34,0.55,0.42,0.6225,0.48492733387470227,Quantum evaluation

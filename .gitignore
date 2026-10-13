@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+dnn_venv/
+quantum_venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Secrets
+.env
+
+data/creditcard.csv

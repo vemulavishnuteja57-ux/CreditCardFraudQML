@@ -1,0 +1,7 @@
+Model,Category,Test Samples,Test Fraud Cases,Accuracy,Fraud Precision,Fraud Recall,Fraud F1-Score,ROC-AUC,Average Precision,Metric Source
+Logistic Regression,Classical,56962,98,0.9755,0.061,0.9184,0.1144,0.9720834996210077,0.719,Previously calculated evaluation
+Random Forest,Classical,56962,98,,0.91,0.79,0.84,0.95731,,Classification report; rounded metrics
+XGBoost,Classical,56962,98,,0.9,0.8,0.84,0.960115,,Classification report; rounded metrics
+DNN,Classical,56962,98,,0.06,0.9,0.11,0.9787039323326403,,Classification report; rounded metrics
+QSVM,Hybrid quantum-classical,60,20,0.7333333333333333,0.64,0.45,0.53,0.6725,0.5499569464986533,Quantum evaluation
+VQC,Hybrid quantum-classical,60,20,0.5,0.34,0.55,0.42,0.6225,0.48492733387470227,Quantum evaluation

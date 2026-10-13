@@ -1,0 +1,2 @@
+Model,Category,Test Samples,Test Fraud Cases,Accuracy,Fraud Precision,Fraud Recall,Fraud F1-Score,ROC-AUC,Average Precision,Metric Source
+XGBoost,Classical,56962,98,,0.9,0.8,0.84,0.960115,,Classification report; rounded metrics

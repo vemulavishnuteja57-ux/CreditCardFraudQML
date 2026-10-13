@@ -1,0 +1,2 @@
+Model,Category,Test Samples,Test Fraud Cases,Accuracy,Fraud Precision,Fraud Recall,Fraud F1-Score,ROC-AUC,Average Precision,Metric Source
+DNN,Classical,56962,98,,0.06,0.9,0.11,0.9787039323326403,,Classification report; rounded metrics
